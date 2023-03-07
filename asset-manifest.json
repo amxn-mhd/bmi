@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amxn-mhd/bmi.git/static/css/main.e6c13ad2.css",
+    "main.js": "/amxn-mhd/bmi.git/static/js/main.d6eaecf6.js",
+    "static/js/787.a8efd68c.chunk.js": "/amxn-mhd/bmi.git/static/js/787.a8efd68c.chunk.js",
+    "index.html": "/amxn-mhd/bmi.git/index.html",
+    "main.e6c13ad2.css.map": "/amxn-mhd/bmi.git/static/css/main.e6c13ad2.css.map",
+    "main.d6eaecf6.js.map": "/amxn-mhd/bmi.git/static/js/main.d6eaecf6.js.map",
+    "787.a8efd68c.chunk.js.map": "/amxn-mhd/bmi.git/static/js/787.a8efd68c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d6eaecf6.js"
+  ]
+}
